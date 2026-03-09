@@ -1,3 +1,4 @@
 # .dockerignore
+.github
 assets
 README.md
